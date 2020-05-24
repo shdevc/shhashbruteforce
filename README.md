@@ -1,4 +1,6 @@
- Options
+SavunanHacker Hash Bruteforce
+-----
+Options
 ---------
 [1] MD5 
 ---------
