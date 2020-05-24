@@ -1,15 +1,15 @@
-#SavunanHacker Hash Bruteforce
+# SavunanHacker Hash Bruteforce
 -
-###Options
+### Options
 -
-######[1] MD5 
+###### [1] MD5 
 -
-######[2] SHA25
+###### [2] SHA25
 -
-######[3] SHA1
+###### [3] SHA1
 -
-######[4] SHA224
+###### [4] SHA224
 -
-######[5] SHA384
+###### [5] SHA384
 -
 ![alt text](image.png)
