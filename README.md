@@ -1,4 +1,4 @@
-<font color="green">SavunanHacker Hash Bruteforc</font>
+<span style="color: green">SavunanHacker Hash Bruteforce</span>
 -----
 Options
 ---------
